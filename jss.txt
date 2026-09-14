@@ -1,0 +1,3 @@
+function orderCoffee() {
+    alert("Thank you! Your coffee order has been received.");
+}
